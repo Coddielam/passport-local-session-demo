@@ -1,0 +1,4 @@
+{
+  "sessionSecret": "ConfidentialSessionSecret",
+  "mongoURI": "mongodb+srv://eddielam:1lBSAcLopEA0aQac@portfolio.xrwva.mongodb.net/users?retryWrites=true&w=majority"
+}
